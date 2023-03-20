@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "surname": "Romanova",
+    "name": "Ekaterina",
+    "patronymic": "Alexeyevna",
+    "phone_number": "89147564879",
+    "e_mail": "kate_the_second@mail.ru",
+    "create_date": "18:25",
+    "update_date": ""
+  },
+  {
+    "id": 2,
+    "surname": "Romanov",
+    "name": "Peter",
+    "patronymic": "Fedorovich",
+    "phone_number": "89147852417",
+    "e_mail": "friedrich_is_the_best@mail.ru",
+    "create_date": "18:29",
+    "update_date": ""
+  }
+]
